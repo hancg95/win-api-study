@@ -1,0 +1,31 @@
+﻿  OpenGL_Templete.cpp
+c:\work\game\opengl_templete\dsdef.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\work\game\opengl_templete\dslua.h(133): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\work\game\opengl_templete\dslua.h(134): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\work\game\opengl_templete\dslua.h(136): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\work\game\opengl_templete\dslua.h(175): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\work\game\opengl_templete\dslua.h(193): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\work\game\opengl_templete\dslua.h(198): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\work\game\opengl_templete\dslua.h(199): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  libpng16.lib(png.obj) : /GL로 컴파일한 MSIL .netmodule 또는 모듈이 있습니다. /LTCG를 지정하여 링크를 다시 시작하십시오. /LTCG를 링크 명령줄에 추가하면 링커 성능이 향상됩니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/LTCG' 사양으로 인해 무시됩니다.
+CatObject.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+libpng16.lib(png.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(png.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngread.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngread.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngerror.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngerror.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngget.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngget.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngwrite.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngwrite.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngmem.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngmem.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngrio.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngrio.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngrutil.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngrutil.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngrtran.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngrtran.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngtrans.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngtrans.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngset.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngset.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngwutil.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngwutil.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngwio.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngwio.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libpng16.lib(pngwtran.obj) : warning LNK4099: 'libpng.pdb' PDB를 'libpng16.lib(pngwtran.obj)' 또는 'C:\Work\Game\OpenGL_Templete\Debug\libpng.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  OpenGL_Templete.vcxproj -> C:\Work\Game\OpenGL_Templete\Debug\OpenGL_Templete.exe
+  OpenGL_Templete.vcxproj -> C:\Work\Game\OpenGL_Templete\Debug\OpenGL_Templete.pdb (Full PDB)
